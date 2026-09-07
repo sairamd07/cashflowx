@@ -1,16 +1,47 @@
-# React + Vite
+# CashFlowX 💰
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+AI-powered personal cash-flow management web application.
 
-Currently, two official plugins are available:
+## 🌐 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+https://cashflowx-wmgo.onrender.com
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Dashboard
+- Transaction management
+- Expense analytics
+- Budget tracking
+- Savings goals
+- Recurring payments
+- Cash flow forecasting
+- Cash flow health analysis
+- Purchase timing insights
+- Smart recommendations
+- Gemini AI Financial Assistant
 
-## Expanding the ESLint configuration
+## 🤖 AI
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+CashFlowX uses Google's Gemini API to provide
+personalized financial assistance based on the
+user's financial data.
+
+## 🛠️ Tech Stack
+
+- React
+- Vite
+- JavaScript
+- Recharts
+- Lucide React
+- Node.js
+- Express.js
+- Gemini API
+- Render
+
+## 🚀 Deployment
+
+Frontend and backend are deployed using Render.
+
+## 👨‍💻 Author
+
+Sairam
