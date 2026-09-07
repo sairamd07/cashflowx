@@ -11,7 +11,13 @@ console.log(
 );
 const app = express();
 
-app.use(cors());
+app.use(
+  cors({
+    origin: "https://cashflowx-wmgo.onrender.com",
+    methods: ["GET", "POST", "OPTIONS"],
+    allowedHeaders: ["Content-Type"],
+  })
+);
 app.use(express.json());
 
 const ai = new GoogleGenAI({
